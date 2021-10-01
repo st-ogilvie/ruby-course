@@ -1,8 +1,8 @@
 # Lesson 1: Outputting a String
 
-puts "Hello World!"
+puts "Hey-o, what's yo' name?"
 
 # Lesson 2: Prompting User Input
 
-# name = gets
-# puts "Hey, #{name}! Nice to meet you!"
+name = gets.chop
+puts "Ah, #{name}! Delighted to make your acquaintance..."
